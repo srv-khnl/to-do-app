@@ -21,3 +21,7 @@ npm run dev
 - React
 - Vite
 - CSS
+
+## Screenshot
+
+![To-Do List App Screenshot](https://github.com/srv-khnl/to-do-app/blob/main/src/assets/Screenshot.png?raw=true)
